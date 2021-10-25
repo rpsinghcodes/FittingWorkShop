@@ -1,0 +1,13 @@
+.center {
+  text-align: center;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+}
+
+.images{
+  width:200px;
+  height:200px;
+}
